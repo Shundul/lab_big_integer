@@ -4,7 +4,7 @@
 
 | Field     | Value               |
 |-----------|---------------------|
-| **Name**  | _Мамедагаев Алим_          |
+| **Name**  | _Мамедагаев Алим_         |
 | **Group** | _РПОиПИИ_            |
 
 > **Replace the data above with your own!**
